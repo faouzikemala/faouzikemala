@@ -10,4 +10,5 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kemala&theme=github-dark-blue)](https://git.io/streak-stats)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+
