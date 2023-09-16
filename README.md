@@ -3,7 +3,7 @@
 ---
 
 <div align="center">
-![image](Slide2.GIF)
+![image](/Slide2.GIF)
 </div>
 
 <!--
