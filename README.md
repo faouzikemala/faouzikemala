@@ -3,7 +3,7 @@
 ---
 
 <div align="center">
-![Alt Text](https://github.com/faouzikemala/faouzikemala/blob/main/Slide2.GIF?raw=true)
+<img src="https://github.com/faouzikemala/faouzikemala/blob/main/Slide2.GIF?raw=true" width="100" height="100">
 </div>
 
 <!--
