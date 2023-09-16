@@ -3,7 +3,7 @@
 ---
 
 <div align="center">
-<img src="https://github.com/faouzikemala/faouzikemala/blob/main/Slide2.GIF?raw=true" width="100" height="100">
+<img src="https://github.com/faouzikemala/faouzikemala/blob/main/Slide2.GIF?raw=true" scale="0.5">
 </div>
 
 <!--
