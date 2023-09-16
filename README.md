@@ -3,7 +3,7 @@
 ---
 
 <div align="center">
-![image](files/Users/jzhang/Desktop/Isolated.png)
+![image](Slide2.GIF)
 </div>
 
 <!--
