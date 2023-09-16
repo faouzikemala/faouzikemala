@@ -3,7 +3,7 @@
 ---
 
 <div align="center">
-![image](/Slide2.GIF)
+![using a color picker](Slide2.GIF)
 </div>
 
 <!--
