@@ -3,7 +3,7 @@
 ---
 
 <div align="center">
-![using a color picker](Slide2.GIF)
+<img src="https://github.com/faouzikemala/faouzikemala/blob/main/Slide2.GIF?raw=true">
 </div>
 
 <!--
