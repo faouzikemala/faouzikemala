@@ -1,7 +1,7 @@
 
 ---
 
-<h1>F A O U Z I   K E M A L A</h1>
+<center><h1><b>F A O U Z I   K E M A L A</b></h1></center>
 
 <div align="center">
 <img src="https://github.com/faouzikemala/faouzikemala/blob/main/Untitled.png?raw=true" scale="0.5">
