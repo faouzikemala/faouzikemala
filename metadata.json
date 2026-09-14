@@ -1,0 +1,7 @@
+{
+  "name": "Windows 11 Portfolio & CV - Faouzi Kemala",
+  "description": "Windows 11 desktop experience with dynamic starfield particle streaming, interactive lock screen, start menu, and creative File Explorer CV showcase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
